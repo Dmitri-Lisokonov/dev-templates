@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wLj8CooIn8tSHO8N9Xkw3WRbsnCooSkmf+Uqx7YNKbw=",
+  "Source": "System.Domain.Api",
+  "BasePath": "_content/System.Domain.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

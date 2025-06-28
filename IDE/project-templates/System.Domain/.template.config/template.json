@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Dmitri Lisokonov",
+  "classifications": [ "Solution", "Microservice", "Architecture", "DomainDrivenDesign" ],
+  "name": "Domain driven design layered webservice",
+  "description": "Template for a layered service following Onion Architecture and DDD principles.",
+  "identity": "Base.Template.LayeredService",
+  "shortName": "base-layered-service",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "sourceName": "System.Domain",
+  "preferNameDirectory": true,
+  "symbols": {
+    "systemName": {
+      "type": "parameter",
+      "description": "Top-level system name",
+      "defaultValue": "System"
+    },
+    "domainName": {
+      "type": "parameter",
+      "description": "Domain name",
+      "defaultValue": "Domain"
+    }
+  }
+}
