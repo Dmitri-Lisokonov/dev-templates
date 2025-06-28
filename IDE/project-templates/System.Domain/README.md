@@ -59,9 +59,8 @@ These values replace every instance of `System.Domain` in file names, folder nam
 
 Before you can install and use this template, you must manually create a working prototype of the solution:
 
-1. Use `dotnet new` commands to create projects for `.Api`, `.Domain`, etc.
-2. Structure and configure the solution to your standards.
-3. Place everything inside a folder and add a `.template.config/template.json` with the template metadata.
-4. Run `dotnet new install .` from the root directory to make the template available locally.
+1. Structure and configure the solution to your standards.
+2. Place everything inside a folder and add a `.template.config/template.json` with the template metadata.
+3. Run `dotnet new install .` from the root directory to make the template available locally.
 
 ---
